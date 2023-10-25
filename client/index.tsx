@@ -16,8 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
      * TODO: replace the empty strings below with your own domain, clientId, and audience
      */
     <Auth0Provider
-      domain="blicky.au.auth0.com"
-      clientId="34vweD0Dl5vE16hsBN4ZtryL4acOlkzq"
+      domain="team-blicky.au.auth0.com"
+      clientId="V9bT4IKEPqSU14BeQwkMIc1S7RZJbisU"
       redirectUri={window.location.origin}
       audience="https://clicky/api"
     >
